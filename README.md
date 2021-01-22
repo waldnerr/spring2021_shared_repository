@@ -13,3 +13,8 @@ To be clear, this is the only repository where you should be using your name. Fo
 
 Please use this repository to **edit** existing files. Git tracks a file's history. If everyone starts with the same file, makes a branch, and edits it, it counts as the same file. If everyone makes files with identical names in their own branches, git will be confused by the different versioning history. We're going to practice both branching and merging with this exercise, so everyone's file must have the same history.
 
+## Merging Activity
+
+1. On your team's first meeting, you should create a branch for your team. Pick a descriptive name that goes with the project you're working on, not the kind of team name you might use for a TBL course where everyone is doing the same things. For instance, if we have a database team, their branch could be called *db* or *database*, but **not** *CaffeinatedCoders*. 
+
+2. Merge your notes into the repository. Take turns. The first merge is trivial, that's why there are two note-taking activities. The person who does the first merge for the syllabus notes should **not** be the person who does the first merge on the Agile notes. This way, everyone will get a chance to see what it's like to use the mergetool to merge with code that is already there.
