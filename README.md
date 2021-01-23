@@ -27,8 +27,8 @@ To be clear, this is the only repository where you should be using your name. Fo
 
 ## Hours
 
-* You should checkout your own branch during the week to record your hours. This is the same branch you took your original notes in. I
-* Hours should be recorded in a spreadsheet that includes starting time, ending time, and does the math to calculate the total hours for the week. A sample spreadsheet can be found in this repository.
+* You should checkout your own branch during the week to record your hours. This is the same branch you took your original notes in. 
+* Hours should be recorded in a spreadsheet that includes starting time, ending time, and does the math to calculate the total hours for the week. A sample spreadsheet can be found in this repository. Please make your own copy of the spreadsheet. Name it with your lastnameFirstname (e.g. mine would be magnusCristyn.xlsx) and copy the formulae from the first sheet into successive sheets/tabs in the same spreadsheet file.
 * Winding down every work session should include committing what you've been working on, pushing that to the server, recording the end of your hours, committing your hours, then pushing to the server. If you're working effectively and the work you're doing meshes with the hours you claim, this won't be a big deal. But if you claim tons of hours and have nothing to show for it, this will be used to assess the validity of your hours. If you claim hours it looks like you didn't do, this is how you prove you did them; if you don't do this, we have to assume you're cheating and act accordingly. 
 * You should report your hours for the week to your team so they can record them in the minutes. Absent the need to double check your hours because hours claimed don't mesh with the work you've done and occasional random auditing to make sure reporting is accurate, this is where your hours will come from for your final grade. You needn't include the entire accounting, just say you worked 9 hours, or whatever, the previous week.
 
