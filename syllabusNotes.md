@@ -27,3 +27,41 @@ Other work on project 30%<br>
 Final Presentation (Showcase) 10%<br>
 
 ## Documentation & State of Repository
+>If someone is given the task of documentation for users, they would need to document what they've documented, how, and why, so someone else can take over the job from them.
+
+## Participation
+>Zoom, breakout room.<br>
+Peropdic meeting with the instructor<br>
+Slack
+
+
+## Minutes
+Facilitator: this person decides what needs to happen in the meeting, sets a schedule (which they share with the timekeeper), and makes sure everyone gets a chance to speak.<br>
+
+Timekeeper: this person makes sure the schedule is maintained. They give occasional warnings of how much time is left so people can decide to move it along.<br>
+
+Note Taker: this person takes notes on the gist of what each person says. This isn't verbatim; it's a summary that hits the high points.<br>
+
+## Weekly Goals
+Each week, as part of your group meeting, you are expected to come up with tasks for the next week. Each person in the team must have a plan for the next week's work recorded in the meeting minutes. 
+
+## Presentation (Showcase)
+The showcase will almost certainly be a week or two before the end of the semester. Your presentation can be done as an individual, with a subset of your team, or with your entire team, depending on what makes sense for the work you've been doing. If it is done as a team, everyone will need to contribute to the presentation. If your team is large, it would be wise to analyze your project and decide if there are different approaches to the presentation that different members or sub-teams could make so that everyone can put their best foot forward and get the best possible grade. The grade will reflect both the presentation itself (shared grade, if applicable) and how each individual's work/insight/progress is reflected in the presentation (individual grade).
+
+## Documentation & State of Repository
+**We will not be using Blackboard.<br>
+Do NOT hand in work through email.**
+
+## Required & Recommended Materials
+VS Code or ATOM
+
+We will use https://draw.io for diagramming. It is free and will let us save versions to the repository instead of working only in the cloud, for most of our diagramming.
+
+Windows Users: git bash or a gui git client.
+
+We will use github to submit most coursework.
+
+Students focusing on design will discuss software in an early meeting with the instructor. As a rule, everything must be saved in an open format but there might be exceptions based on what work needs to be done. In particular, if you choose to use adobe products, they have decided not to make their files openable by non-subscription versions of their software that only exceptionally wealthy people (probably none of us) can afford. If you have access to the expensive subscription version of software, anything you do must be saved to be backwards-compatible with an old verison (compatible with CS6 or earlier) or it must be saved in an open format such as pdf, svg, png, etc. instead of their proprietary formats.
+
+## Documentation & State of Repository
+## Documentation & State of Repository
