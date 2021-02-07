@@ -63,5 +63,14 @@ We will use github to submit most coursework.
 
 Students focusing on design will discuss software in an early meeting with the instructor. As a rule, everything must be saved in an open format but there might be exceptions based on what work needs to be done. In particular, if you choose to use adobe products, they have decided not to make their files openable by non-subscription versions of their software that only exceptionally wealthy people (probably none of us) can afford. If you have access to the expensive subscription version of software, anything you do must be saved to be backwards-compatible with an old verison (compatible with CS6 or earlier) or it must be saved in an open format such as pdf, svg, png, etc. instead of their proprietary formats.
 
-## Documentation & State of Repository
-## Documentation & State of Repository
+## Attendance
+As an online course, attendance is not directly graded. However, you are expected to keep up with the weekly work. All coursework except the Personal Project is due by the last day of class. There is no guarantee that work submitted after that deadline can be graded before grades are due.
+
+## Communication
+schedule a meeting via http://calendly.com/cmagnus
+
+Come to a meeting scheduled by another student in the class. This is especially for organizing meetings with your team, but you can drop in on anyone's meeting and ask your question at the end if they don't use their full time. See the course slack for announced meeting times.
+
+Message the instructor via the course slack. Unless it is private, you probably should post to a public channel instead of messaging. Posting questions and answers of general interest to the public slack channels counts as participation; contacting the instructor privately does not.
+
+You may attempt email but do not expect a response unless the subject line consists of “inf 465 followed by a brief description of what you need to contact me about. I check my campus email sporadically (about once a week) but I get so much spam from the university that can’t be unsubscribed from.
