@@ -34,3 +34,15 @@ Learning Objectives:
     10. Be comfortable communicating with a remote team via sclack
     
     11. Be familiar with project management
+
+
+Grades:
+
+    Ice-breaker module:                                          5%
+    Documentation and State of repository for future students:   15%
+    Participation:                                               10%
+    Meeting Minutes:                                             10%
+    Set Weekly Goals:                                            10%
+    Consistent Progress towards goals:                           10%
+    Other work on project:                                       30%
+    Final Presentation (showcase)                                10%
