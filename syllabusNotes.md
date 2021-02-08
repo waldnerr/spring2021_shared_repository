@@ -2,8 +2,8 @@
 
 Meeting times:
     
-    Tuesday: 3-4:20pm
-    Thursday: 3-4:20pm
+    Tuesday:    3-4:20pm
+    Thursday:   3-4:20pm
 
 
 Course Despcription:
@@ -46,3 +46,4 @@ Grades:
     Consistent Progress towards goals:                           10%
     Other work on project:                                       30%
     Final Presentation (showcase)                                10%
+
